@@ -1,3 +1,5 @@
-1. Menguasai tools web developer dan bahasanya
-2. Fundamental Data Analysis
-3. Menguasai Database
+
+1. Menguasai fundamental html, css, php, javascript, sql
+2. Menguasai framework laravel, dan nodejs
+3. Belajar python secara konsisten dan R
+
